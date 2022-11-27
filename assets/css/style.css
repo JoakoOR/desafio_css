@@ -7,7 +7,7 @@ body {
     height: 0.5em;
     padding: 5em;
     font-size: 2em;
-    background-image: url('/assets/imgs/pagina_prote.jpg');
+    background-image: url("/desafio_css/assets/imgs/pagina_prote.jpg");
     background-size: cover;
     background-position: center;
     color: whitesmoke;
